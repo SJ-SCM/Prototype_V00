@@ -5,12 +5,9 @@ The workflow uses the V4 region of bacterial S16. Enter the program via a simpli
 
 The following steps are:
 
-(1) the implementation of a mathematical combination of n = 1 to n = |nucleotides in the sequence| to identify subgroups in the nucleotide sequence that give higher accuracy
-https://en.wikipedia.org/wiki/Combination
+(1) increase the dataset and change the structure to a pyspark program that uses a SQL database 
 
-(2) increase the dataset and change the structure to a pyspark program that uses a SQL database 
-
-(3) the implementation of traditional bioinformatics methods for data analysis
+(2) the implementation of traditional bioinformatics methods for data analysis
 
 If you are interested in the project you can see more at intuitiveinformatics.com or contact me at group@intuitiveinformatics.com or sarah_joseph@live.com
 
