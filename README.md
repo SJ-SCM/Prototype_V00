@@ -7,7 +7,7 @@ The following steps are:
 
 (1) increase the dataset 
 
-(2) compare results to a sequence alignment 
+(2) compare the results to a basic alignment
 
 If you are interested in the project you can see more at intuitiveinformatics.com or contact me at group@intuitiveinformatics.com or sarah_joseph@live.com
 
