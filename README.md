@@ -9,5 +9,3 @@ The following steps are:
 
 (2) compare the results to a basic alignment
 
-If you are interested in the project you can read more at https://intuitiveinformatics.com or contact me at group@intuitiveinformatics.com
-
